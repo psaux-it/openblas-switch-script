@@ -1,6 +1,9 @@
 # openblas-switch-script
 OpenBLAS system-wide switch script between Gentoo reference [BLAS] [LAPACK] [CBLAS] set.
 
+Thanks for referencing my work !
+https://wiki.gentoo.org/wiki/Blas-lapack-switch
+
 -----------------------------------------------------------
 Compatible with eselect.
 
